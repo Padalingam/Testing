@@ -14,6 +14,7 @@ class ClassOne
     let age : Int
     let addr : String
     
+    let dob : String
     init()
     {
         dob = "some"
