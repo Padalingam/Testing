@@ -16,6 +16,7 @@ class ClassOne
     
     init()
     {
+        dob = "some"
       name = "Keerthi"
     age = 21
         addr = "Banglore"
