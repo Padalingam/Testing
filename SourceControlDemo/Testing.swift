@@ -11,9 +11,11 @@ import Foundation
 class ClassOne
 {
     let name : String
+    let age : Int
     
     init()
     {
       name = "Keerthi"
+    age = 21
     }
 }
