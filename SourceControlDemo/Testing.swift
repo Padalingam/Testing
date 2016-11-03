@@ -12,9 +12,10 @@ class ClassOne
 {
     let name : String
     let age : Int
-    
+    let dob : String
     init()
     {
+        dob = "some"
       name = "Keerthi"
     age = 21
     }
