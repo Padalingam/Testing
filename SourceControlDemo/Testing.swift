@@ -12,10 +12,12 @@ class ClassOne
 {
     let name : String
     let age : Int
+    let addr : String
     
     init()
     {
       name = "Keerthi"
     age = 21
+        addr = "Banglore"
     }
 }
