@@ -8,9 +8,12 @@
 
 import Foundation
 
-class A
+class ClassOne
 {
+    let name : String
+    
     init()
     {
+      name = "Keerthi"
     }
 }
